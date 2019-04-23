@@ -70,6 +70,10 @@ body {
     font-weight: 500;
 }
 
+.calltoaction > a:hover {
+    background-color: #6ead32;
+}
+
 h1 {
     color: white;
     font-family: Montserrat, Helvetica, sans-serif;
@@ -202,7 +206,6 @@ footer > section > article > ul > li {
 
 footer > section > article > ul > li > a {
     color: #c10a2D;
-    list-style: none;
     font-family: Montserrat, Helvetica, sans-serif;
 }
 
@@ -253,4 +256,8 @@ label {
     text-transform: uppercase;
     font-size: 1em;
     font-weight: 500;
+}
+
+#aanmelden:hover {
+    background-color: #6ead32;
 }

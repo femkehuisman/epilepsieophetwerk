@@ -213,3 +213,7 @@ label {
     font-size: 1em;
     font-weight: 500;
 }
+
+#aanmelden:hover {
+    background-color: #6ead32;
+}

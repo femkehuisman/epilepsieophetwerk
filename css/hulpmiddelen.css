@@ -171,10 +171,20 @@ section > article > ul {
     font-weight: 500;
 }
 
-/* Footer */
+section > article > a {
+    font-family: Montserrat, Helvetica, sans-serif;
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 1em;
+    font-weight: 500;
+    text-decoration: underline;
+}
 
+/* Footer */
 footer {
-    background-color: white;
+    background-color: #F5F5F5;
 }
 
 h6 {
@@ -214,10 +224,15 @@ footer > section > article > ul > li {
 
 footer > section > article > ul > li > a {
     color: #c10a2D;
-    list-style: none;
     font-family: Montserrat, Helvetica, sans-serif;
 }
 
+
+footer > section > article > a {
+    color: black;
+    padding: 0;
+    margin: 0;
+}
 
 /* Nieuwsbrief aanmelden */
 
@@ -259,4 +274,8 @@ label {
     text-transform: uppercase;
     font-size: 1em;
     font-weight: 500;
+}
+
+#aanmelden:hover {
+    background-color: #6ead32;
 }
