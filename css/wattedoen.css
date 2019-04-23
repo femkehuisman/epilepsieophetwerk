@@ -46,6 +46,10 @@ p {
     color: #7bbe3a;
 }
 
+.linkkleur {
+    color: #7bbe3a !important;
+}
+
 .menubalk > nav > ul {
     display: flex;
     justify-content: space-between;

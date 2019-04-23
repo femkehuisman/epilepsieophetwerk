@@ -46,6 +46,10 @@ p {
     color: #7bbe3a;
 }
 
+.linkkleur {
+    color: #7bbe3a !important;
+}
+
 .menubalk > nav > ul {
     display: flex;
     justify-content: space-between;
@@ -60,6 +64,7 @@ p {
     text-decoration: none;
     color: black;
 }
+
 
 
 .calltoaction {
@@ -88,7 +93,6 @@ h3 {
     font-family: Montserrat, Helvetica, sans-serif;
     margin: 20px;
 }
-
 
 section > article > ul {
     font-family: Verdana, Helvetica, sans-serif;
